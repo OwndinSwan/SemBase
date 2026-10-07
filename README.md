@@ -9,8 +9,8 @@
 [![Supabase](https://img.shields.io/badge/Supabase-Cloud%20Vault-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com)
 [![Gemini AI](https://img.shields.io/badge/AI%20Engine-Gemini%20Cascade-8E75FF?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/)
 [![Android](https://img.shields.io/badge/Android-SDK%2026--36-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/OwndinSwan/SemBase/releases)
-[![Version](https://img.shields.io/badge/Version-v2.0.6%2B6063-blue?style=for-the-badge)](pubspec.yaml)
-[![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F70%20Clean-success?style=for-the-badge&logo=virustotal&logoColor=white)](https://www.virustotal.com/gui/file/e8c3e0271f743cfb7bf14dca1465729cdb1594342c70a1930fe6b26c83e8762a?nocache=1)
+[![Version](https://img.shields.io/badge/Version-v2.0.8%2B6080-blue?style=for-the-badge)](pubspec.yaml)
+[![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F70%20Clean-success?style=for-the-badge&logo=virustotal&logoColor=white)](https://www.virustotal.com/gui/file/8523eeaabdacf96959ae20ac77c77c7ded0b40c32545d78e69d522b34c1599b7?nocache=1)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 
 <p align="center">
@@ -98,11 +98,11 @@ SemBase provides a standalone, zero-cost public transparency web viewer for clas
 
 SemBase builds are 100% open, transparent, and verified clean across 70 major antivirus engines (including Google, Microsoft Defender, Kaspersky, BitDefender, Avast, Symantec, and Sophos):
 
-- **VirusTotal Scan Report**: [View 0/70 Clean Scan on VirusTotal](https://www.virustotal.com/gui/file/e8c3e0271f743cfb7bf14dca1465729cdb1594342c70a1930fe6b26c83e8762a?nocache=1)
-- **Official APK Target**: `SemBase-v2.0.6-universal-release.apk`
+- **VirusTotal Scan Report**: [View 0/70 Clean Scan on VirusTotal](https://www.virustotal.com/gui/file/8523eeaabdacf96959ae20ac77c77c7ded0b40c32545d78e69d522b34c1599b7?nocache=1)
+- **Official APK Target**: `SemBase-v2.0.8-universal-release.apk`
 - **SHA-256 Checksum**:
   ```text
-  772fc6f1e499c868e6da6262997ff00963d481979da81621372f439fc677e71b
+  8523eeaabdacf96959ae20ac77c77c7ded0b40c32545d78e69d522b34c1599b7
   ```
 - **Distribution Notice**: Due to the Google Play Developer registration fee ($25 USD), SemBase is distributed directly via GitHub Releases as an independent student-led initiative without any malware, bloatware, or ad trackers.
 
